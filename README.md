@@ -1,5 +1,5 @@
 # VirtualBusinessAccountant
-Web Apllication which can hold and manage all type of financial tasks of a Business(Organization).
+Web Application which can hold and manage all type of financial tasks of a Business(Organization).
 We will register an organization and the organization can register its employees.
 In this web application, there will be a interface which can be used by Different Organizations which can help them in managing their financial tasks.
 Each Employee will get his login credentials and the manager will decide which employee has which permission(read,write,modify).
